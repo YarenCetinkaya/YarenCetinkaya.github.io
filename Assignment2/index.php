@@ -84,7 +84,7 @@
         }
     }
     ?>
-    <form action="activity6.php" method="get">
+    <form action="index.php" method="get">
         <div class="fromTo">
             From:
             <div class="from">
